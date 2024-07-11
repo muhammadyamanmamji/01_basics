@@ -21,3 +21,5 @@ console.log(myName.__proto__);
 
 
 console.log(myName.toUpperCase());
+
+console.log("hello");
